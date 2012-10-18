@@ -8,7 +8,7 @@
  * forbidden except by express written permission of I-Smart S.R.L.
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
-package it.ismart.smartq.reservation.model;
+package it.ismart.smartq.reservation.domain;
 
 import junit.framework.Assert;
 
@@ -23,7 +23,10 @@ import org.junit.Test;
  * @revision $Revision$
  * @author $Author$
  * 
- *         File : $HeadURL$
+ *         File : $HeadURL:
+ *         https://smatq-with-reservation.googlecode.com/svn/trunk
+ *         /SmatQueueWithReservation
+ *         /src/test/java/it/ismart/smartq/reservation/domain/CounterTest.java $
  * 
  */
 public class CounterTest {

@@ -8,7 +8,7 @@
  * forbidden except by express written permission of I-Smart S.R.L.
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
-package it.ismart.smartq.reservation.model;
+package it.ismart.smartq.reservation.domain;
 
 import org.joda.time.Duration;
 import org.joda.time.LocalTime;
